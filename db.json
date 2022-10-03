@@ -1,1 +1,19 @@
-
+{
+    "gappei": [
+        {
+            "shikuchosonCd": "99111",
+            "kaishiBi": "2022-05-01",
+            "shuryoBi": null,
+            "gappeiBi": null,
+            "kokyodantaiCd": "999047",
+            "isGyoseiku": 1,
+            "shikuchosonKbn": 2,
+            "todofukenMei": "テスト都道府県",
+            "gunshiMei": null,
+            "shikuchosonMei": "テスト市区町村",
+            "yubinNo": "777-7777",
+            "shozaichi": "テスト所在地",
+            "tel": "777-777-7777"
+        }
+    ]
+}
